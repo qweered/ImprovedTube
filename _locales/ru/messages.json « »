@@ -54,7 +54,7 @@
         "message": "Анализатор"
     },
     "appearance": {
-        "message": "Внешний вид"
+        "message": "Вид"
     },
     "ARROWDOWN": {
         "message": "⇩"
@@ -99,7 +99,7 @@
         "message": "Черный"
     },
     "blacklist": {
-        "message": "Черный список"
+        "message": "Блэклист"
     },
     "blockAll": {
         "message": "Заблокировать всё"
@@ -153,13 +153,13 @@
         "message": "Свернуть"
     },
     "collapseOfSubscriptionSections": {
-        "message": "Свернуть раздел подписок"
+        "message": "Свернуть раздел «Подписки»"
     },
     "comments": {
         "message": "Комментарии"
     },
     "confirmationBeforeClosing": {
-        "message": "Подтверждение закрытия"
+        "message": "Подтверждать закрытие вкладки"
     },
     "cookies": {
         "message": "Куки"
@@ -294,7 +294,7 @@
         "message": "Растянуть на все окно"
     },
     "general": {
-        "message": "Общее"
+        "message": "Общие"
     },
     "github": {
         "message": "GitHub"
@@ -360,7 +360,7 @@
         "message": "История"
     },
     "home": {
-        "message": "Домашняя страница"
+        "message": "Главная"
     },
     "hover": {
         "message": "Показывать при наведении"
@@ -444,7 +444,7 @@
         "message": "Нормализировать громкость"
     },
     "markWatchedVideos": {
-        "message": "Отмечать просмотренные видео"
+        "message": "Выделять просмотренные видео"
     },
     "customMiniPlayer": {
         "message": "Новый мини-плеер"
@@ -492,7 +492,7 @@
         "message": "Активен только в YouTube"
     },
     "onlyOnePlayerInstancePlaying": {
-        "message": "Только один экземпляр плеера играет"
+        "message": "Не воспроизводить больше одного плеера одновременно"
     },
     "onSubscribedChannels": {
         "message": "Только на каналах в подписках"
@@ -579,7 +579,7 @@
         "message": "Похожие видео"
     },
     "removeRelatedSearchResults": {
-        "message": "Удалить похожие результаты поиска"
+        "message": "Удалить «Похожие запросы» из поиска"
     },
     "repeat": {
         "message": "Повтор"
@@ -591,7 +591,7 @@
         "message": "Сбросить все настройки"
     },
     "resetAllShortcuts": {
-        "message": "Сбросить все горячие клавиши"
+        "message": "Сбросить все хоткеи"
     },
     "reverse": {
         "message": "Обратный порядок"
@@ -633,7 +633,7 @@
         "message": "Настройки успешно импортированы"
     },
     "shortcuts": {
-        "message": "Горячие клавиши"
+        "message": "Хоткеи"
     },
     "showCardsOnMouseHover": {
         "message": "Показывать карточки при наведении мыши"
@@ -705,7 +705,7 @@
         "message": "Это сбросит все настройки"
     },
     "thisWillResetAllShortcuts": {
-        "message": "Это сбросит все горячие клавиши"
+        "message": "Это сбросит все хоткеи"
     },
     "thumbnails": {
         "message": "Превью"
@@ -732,7 +732,7 @@
         "message": "Прозрачный фон"
     },
     "trending": {
-        "message": "Тренды"
+        "message": "В тренде"
     },
     "tryToReloadThePage": {
         "message": "Попробуйте перезагрузить страницу"
@@ -765,7 +765,7 @@
         "message": "Громкость"
     },
     "watchLater": {
-        "message": "Посмотреть позже"
+        "message": "Смотреть позже"
     },
     "watchTime": {
         "message": "Время просмотра"
@@ -786,7 +786,7 @@
         "message": "Верхняя панель (справа)"
     },
     "youtubeHomePage": {
-        "message": "Домашняя страница YouTube"
+        "message": "Главная"
     },
     "youtubeLanguage": {
         "message": "Язык YouTube"
@@ -795,12 +795,12 @@
         "message": "YouTube ограничивает качетво видео до 1080p для кодека h.264"
     },
     "redDislikeButton": {
-        "message": "Show dislike button red colour"
+        "message": "Показывать кнопку дизлайка красной"
     },
     "hideGradientBottom": {
-        "message": "Hide Gradient Bottom"
+        "message": "Hide Gradient bottom"
     },
     "statsForNerds": {
-        "message": "Show Stats for Nerds"
+        "message": "Показать статистику для задротов"
     }
 }
